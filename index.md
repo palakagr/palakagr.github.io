@@ -79,7 +79,8 @@ Design and analytics for me is a complex matrix composed of tangible and intangi
 - ArcMap, ArcPro
 - GRASS
 - Adobe suite
-
+- Earth Engine
+- 3D Modeling softwares (Rhino, Sketchup, Lumion)
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
