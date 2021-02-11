@@ -9,7 +9,8 @@ California has more wildfires than any other U.S. state. In 2020, California saw
 
 <img src="images/SparkSafe-combine.jpg?raw=true"/>
 
-[Marketing Sales pitch](https://www.youtube.com/watch?v=gXrzPI28f2Q&feature=youtu.be)                         
+[Marketing Sales pitch](https://www.youtube.com/watch?v=gXrzPI28f2Q&feature=youtu.be)  
+[Markdown as pdf](/pdf/SparkSafe.pdf)               
 [Data repository](https://github.com/palakagr/SparkSafe)
 
 ---
@@ -17,7 +18,8 @@ California has more wildfires than any other U.S. state. In 2020, California saw
 Zillow publishes “Zestimate” valuations for homes across the U.S. using an algorithm that draws on data from county and tax assessor records, multiple listing services, brokerages, and homeowner submissions. This project sought to improve Zillow’s housing market predictions for Miami and Miami Beach. We conceptualized our model using the hedonic model, which predicts home prices by summing the value of its constituent parts. Our model includes three types of variables: internal characteristics of houses, amenities/public services, and spatial structures.
 
 <img src="images/Home2.JPG?raw=true"/>
-                      
+
+[Markdown as pdf](/pdf/Home values.pdf)                                         
 [Data repository](https://github.com/palakagr/Predicting-Home-Values)
 
 ---
@@ -25,7 +27,8 @@ Zillow publishes “Zestimate” valuations for homes across the U.S. using an a
 In 2013 the San Francisco Municipal Transportation Agency partnered with public agencies to plan and implement the original Bay Area Bike Share pilot project and are now leading to work with the private sector partner to expand the system. One of the big operational challenges of bike share systems is "re-balancing" - getting bikes to stations that are anticipated to have demand but lack bikes. Figuring out how to do this is one of the keys to operating a successful system. With the introduction of the stationless bikeshare system the problem of re-balancing can be eliminated by a certain percentage. But it creates new problems as the bikes are further spread out and its harder to make sure that the bike is picked up. 
 
 <img src="images/Bikeshare5.jpg?raw=true"/>
-                    
+
+[Markdown as pdf](/pdf/Space-Time Prediction.pdf)                                         
 [Data repository](https://github.com/palakagr/Space-Time-Prediction-of-Bike-Share-Demand---San-Francisco-)
 
 ---
@@ -34,6 +37,7 @@ The Department of Housing and Community Development (HCD) in Emil City seeks to 
 
 <img src="images/HCD2.jpg?raw=true"/>
                     
+[Markdown as pdf](/pdf/HousingSubsidy.pdf)                                                  
 [Data repository](https://github.com/palakagr/Improving-efficiency-of-HCD-tax-credit-program)
 
 ---
@@ -41,7 +45,8 @@ The Department of Housing and Community Development (HCD) in Emil City seeks to 
 One of the main aims of policing making is to make smart and efficient decisions in terms of resource and capital allocation which benefits large populations. It is always a comparison between initial investment to long trend usage and benefits. Policing has driven public-sector machine learning because law enforcement has significant planning and resource allocation questions. Here we look at the intersection of public sector planning and data science to ensure that the supply of a limited resource matches the demand for those resources. There are many traditional methods that exist but none have been proven effective.
 
 <img src="images/Policing2.jpg?raw=true"/>
-                    
+
+[Markdown as pdf](/pdf/Policing.pdf)                                         
 [Data repository](https://github.com/palakagr/Risk-Modeling---Predicitve-Policing)
 
 ---
@@ -56,7 +61,7 @@ When it comes to territorial disputes across the globe, the list is long and eve
 ## Design Work
 Design and analytics for me is a complex matrix composed of tangible and intangible features. I believe that enactable policies should be developed and employed across the country, reflective of the myriad spatial, social, cultural, political, and morphological agents that constitute place. Understanding the relationship between the multiplicity of actors is the key to solving many of the urban problems we face today. To find solutions that work for today and tomorrow, it is important to grasp patterns that they create, and data can help us do that.
 
-<img src="images/Design.jpg?raw=true"/>
+<img src="images/Design2.jpg?raw=true"/>
 
 [Resume](/pdf/Resume2021.pdf)           
 [Design Portfolio](/pdf/Agarwal_Palak_Portfolio.pdf)
