@@ -18,7 +18,7 @@ California has more wildfires than any other U.S. state. In 2020, California saw
 Zillow publishes “Zestimate” valuations for homes across the U.S. using an algorithm that draws on data from county and tax assessor records, multiple listing services, brokerages, and homeowner submissions. This project sought to improve Zillow’s housing market predictions for Miami and Miami Beach. We conceptualized our model using the hedonic model, which predicts home prices by summing the value of its constituent parts. Our model includes three types of variables: internal characteristics of houses, amenities/public services, and spatial structures.
 
 <img src="images/Home2.JPG?raw=true"/>
-              
+
 [Markdown (pdf)](/pdf/Home values.pdf)                                         
 [Data repository](https://github.com/palakagr/Predicting-Home-Values)
 
@@ -36,7 +36,7 @@ In 2013 the San Francisco Municipal Transportation Agency partnered with public 
 The Department of Housing and Community Development (HCD) in Emil City seeks to launch a targeted campaign to encourage homeowners to take advantage of a $5,000 tax credit for home repairs. Typically, only 11% of the eligible homeowners they contact take the credit. This analysis attempts to improve the efficiency of HCD’s outreach effort, minimizing outreach to homeowners who are unlikely to take the credit while maximizing outreach to homeowners who are likely to take the credit. Using a random sample of HCD records, a logistic regression is developed to predict the probability that an eligible homeowner will take the home repair tax credit.
 
 <img src="images/HCD2.jpg?raw=true"/>
-                    
+         
 [Markdown as pdf](/pdf/HousingSubsidy.pdf)                                                  
 [Data repository](https://github.com/palakagr/Improving-efficiency-of-HCD-tax-credit-program)
 
