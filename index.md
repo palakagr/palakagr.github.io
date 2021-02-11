@@ -68,6 +68,16 @@ Design and analytics for me is a complex matrix composed of tangible and intangi
 
 
 ---
+## Research Work
+
+### Field Notes toward an Internationalist Green New Deal
+
+Field Notes toward an Internationalist Green New Deal is a project of the [McHarg Center](https://mcharg.upenn.edu/) under the direction of Billy Fleming. Employing a variety of digital media, mapping, storytelling, and other methods, this project asks a series of critical questions about the international and justice dimensions of the Green New Deal. How might the buildout of clean energy infrastructure in the Global North reproduce exploitative relations to the Global South? How might the Green New Dealers seek to ameliorate concerns that their vision represents yet another a form of green imperialism or green capitalism? How might designers think differently about where and how they participate in the discourse around an energy transition, a just transition, and a Green New Deal? 
+
+<img src="images/image.png?raw=true"/>
+
+
+---
 ## Data analyzing and visualisation platforms
 
 - R (tidyverse, sf, raster, tmap, caret, tidymodels, shiny, R Markdown)
