@@ -28,7 +28,7 @@ In 2013 the San Francisco Municipal Transportation Agency partnered with public 
 
 <img src="images/Bikeshare5.jpg?raw=true"/>
 
-[Markdown as pdf](/pdf/Space-TimePrediction.pdf)                                         
+[Markdown (pdf)](/pdf/Space-TimePrediction.pdf)                                         
 [Data repository](https://github.com/palakagr/Space-Time-Prediction-of-Bike-Share-Demand---San-Francisco-)
 
 ---
@@ -37,7 +37,7 @@ The Department of Housing and Community Development (HCD) in Emil City seeks to 
 
 <img src="images/HCD2.jpg?raw=true"/>
          
-[Markdown as pdf](/pdf/HousingSubsidy.pdf)                                                  
+[Markdown (pdf)](/pdf/HousingSubsidy.pdf)                                                  
 [Data repository](https://github.com/palakagr/Improving-efficiency-of-HCD-tax-credit-program)
 
 ---
@@ -46,7 +46,7 @@ One of the main aims of policing making is to make smart and efficient decisions
 
 <img src="images/Policing2.jpg?raw=true"/>
 
-[Markdown as pdf](/pdf/Policing.pdf)                                         
+[Markdown (pdf)](/pdf/Policing.pdf)                                         
 [Data repository](https://github.com/palakagr/Risk-Modeling---Predicitve-Policing)
 
 ---
