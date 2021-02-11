@@ -11,6 +11,14 @@ California has more wildfires than any other U.S. state. In 2020, California saw
 [Data repository](https://github.com/palakagr/SparkSafe)
 
 ---
+### Predicting Home Values
+Zillow publishes “Zestimate” valuations for homes across the U.S. using an algorithm that draws on data from county and tax assessor records, multiple listing services, brokerages, and homeowner submissions. This project sought to improve Zillow’s housing market predictions for Miami and Miami Beach. We conceptualized our model using the hedonic model, which predicts home prices by summing the value of its constituent parts. Our model includes three types of variables: internal characteristics of houses, amenities/public services, and spatial structures.
+
+<img src="images/Home2.jpg?raw=true"/>
+                      
+[Data repository](https://github.com/palakagr/Predicting-Home-Values)
+
+---
 ### Space-Time Prediction of Bike Share Demand - San Francisco  
 In 2013 the San Francisco Municipal Transportation Agency partnered with public agencies to plan and implement the original Bay Area Bike Share pilot project and are now leading to work with the private sector partner to expand the system. One of the big operational challenges of bike share systems is "re-balancing" - getting bikes to stations that are anticipated to have demand but lack bikes. Figuring out how to do this is one of the keys to operating a successful system. With the introduction of the stationless bikeshare system the problem of re-balancing can be eliminated by a certain percentage. But it creates new problems as the bikes are further spread out and its harder to make sure that the bike is picked up. 
 
