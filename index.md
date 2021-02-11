@@ -37,7 +37,7 @@ The Department of Housing and Community Development (HCD) in Emil City seeks to 
 
 <img src="images/HCD2.jpg?raw=true"/>
          
-[Markdown (pdf)](/pdf/HousingSubsidy.pdf)                                                  
+[Markdown (pdf)](/pdf/HosuingSubsidy.pdf)                                                  
 [Data repository](https://github.com/palakagr/Improving-efficiency-of-HCD-tax-credit-program)
 
 ---
