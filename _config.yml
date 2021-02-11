@@ -1,11 +1,13 @@
 title: Palak Agarwal # your name (or website title) here
 logo: "/images/PalakAgarwal_Headshot.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Dual degree candidate @ University of Pennsylvania 
+  <br>
+  Master of Landscape Architecture and Master of Urban Spatial Analytics
   <br><br>
-  Second description 
+  Creative landscape and urban designer bitten by the data bug. I am a data science professional interested in utilizing data to solve social, economic and environmental dilemmas. I have a background in both the geosciences, human geography, and urban planning where I have learned to solve a multitude of spatial analytical problems. I have developed a variety of programming skills, GIS skills, and remote sensing skills suitable to a large variety of industries. I can be of great help in a variety of fields includeing machine learning, web development, GIS, environmental science and city planning.
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/palak-agarwal-025a68191/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
