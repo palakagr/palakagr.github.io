@@ -1,5 +1,7 @@
-## Projects
+## Portfolio
 
+   
+### Projects
 ---
 
 ### Spark Safe - A wildfire vulnerability indicator 
@@ -43,13 +45,14 @@ One of the main aims of policing making is to make smart and efficient decisions
 [Data repository](https://github.com/palakagr/Risk-Modeling---Predicitve-Policing)
 
 ---
-### Category Name 2
+### Design Work
+Design and analytics for me is a complex matrix composed of tangible and intangible features. I believe that enactable policies should be developed and employed across the country, reflective of the myriad spatial, social, cultural, political, and morphological agents that constitute place. Understanding the relationship between the multiplicity of actors is the key to solving many of the urban problems we face today. To find solutions that work for today and tomorrow, it is important to grasp patterns that they create, and data can help us do that.
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+<img src="images/Design.jpg?raw=true"/>
+
+[Resume](/pdf/Resume2021.pdf)
+[Design Portfolio](/pdf/Agarwal_Palak_Portfolio.pdf)
+
 
 ---
 
