@@ -22,9 +22,9 @@ The San Francisco Municipal Transportation Agency (SFMTA) is a department of the
 ### Improving efficiency of HCD Tax Credit Program 
 The Department of Housing and Community Development (HCD) in Emil City seeks to launch a targeted campaign to encourage homeowners to take advantage of a $5,000 tax credit for home repairs. Typically, only 11% of the eligible homeowners they contact take the credit. This analysis attempts to improve the efficiency of HCD’s outreach effort, minimizing outreach to homeowners who are unlikely to take the credit while maximizing outreach to homeowners who are likely to take the credit. Using a random sample of HCD records, a logistic regression is developed to predict the probability that an eligible homeowner will take the home repair tax credit.
 
-<img src="images/Bikeshare5.jpg?raw=true"/>
+<img src="images/HCD2.jpg?raw=true"/>
                     
-[Data repository](https://github.com/palakagr/Space-Time-Prediction-of-Bike-Share-Demand---San-Francisco-)
+[Data repository](https://github.com/palakagr/Improving-efficiency-of-HCD-tax-credit-program)
 
 ---
 
