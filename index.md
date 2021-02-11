@@ -7,8 +7,8 @@ California has more wildfires than any other U.S. state. In 2020, California saw
 
 <img src="images/SparkSafe-combine.jpg?raw=true"/>
 
-[Link to the app pitch](https://www.youtube.com/watch?v=gXrzPI28f2Q&feature=youtu.be)                         
-[Link to the repository](https://github.com/palakagr/SparkSafe)
+[Marketing Sales pitch](https://www.youtube.com/watch?v=gXrzPI28f2Q&feature=youtu.be)                         
+[Data repository](https://github.com/palakagr/SparkSafe)
 
 ---
 ### Space-Time Prediction of Bike Share Demand - San Francisco  
@@ -16,10 +16,9 @@ The San Francisco Municipal Transportation Agency (SFMTA) is a department of the
 
 One of the big operational challenges of bike share systems is "re-balancing" - getting bikes to stations that are anticipated to have demand but lack bikes. Figuring out how to do this is one of the keys to operating a successful system. With the introduction of the stationless bikeshare system the problem of re-balancing can be eliminated by a certain percentage. But it creates new problems as the bikes are further spread out and its harder to make sure that the bike is picked up. For the assignment, the data used is only from docked stations and does not include the stationless bikes.
 
-<img src="images/SparkSafe-combine.jpg?raw=true"/>
-
-[Link to the app pitch](https://www.youtube.com/watch?v=gXrzPI28f2Q&feature=youtu.be)                         
-[Link to the repository](https://github.com/palakagr/SparkSafe)
+<img src="images/Bikeshare5.jpg?raw=true"/>
+                    
+[Data repository](https://github.com/palakagr/Space-Time-Prediction-of-Bike-Share-Demand---San-Francisco-)
 
 ---
 [Project 3 Title](http://example.com/)
