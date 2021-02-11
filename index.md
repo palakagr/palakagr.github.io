@@ -1,7 +1,7 @@
-## Portfolio
+# Portfolio
 
    
-### Projects
+## Projects
 ---
 
 ### Spark Safe - A wildfire vulnerability indicator 
@@ -53,7 +53,7 @@ When it comes to territorial disputes across the globe, the list is long and eve
 [Final Report](/pdf/Urban Growth Around Contested Borders.pdf)
 
 ---
-### Design Work
+## Design Work
 Design and analytics for me is a complex matrix composed of tangible and intangible features. I believe that enactable policies should be developed and employed across the country, reflective of the myriad spatial, social, cultural, political, and morphological agents that constitute place. Understanding the relationship between the multiplicity of actors is the key to solving many of the urban problems we face today. To find solutions that work for today and tomorrow, it is important to grasp patterns that they create, and data can help us do that.
 
 <img src="images/Design.jpg?raw=true"/>
