@@ -68,8 +68,17 @@ Design and analytics for me is a complex matrix composed of tangible and intangi
 
 
 ---
+## Data analyzing and visualisation platforms
 
-
+- R (tidyverse, sf, raster, tmap, caret, tidymodels, shiny, R Markdown)
+- Python (pandas, numpy, geopandas, matplotlib/seaborn, folium, scikit-learn, keras, pyspark, panel)
+- Git
+- OpenStreetMap (Overpass API, OSRM, OSM History DB)
+- C, C++
+- Javascript
+- ArcMap, ArcPro
+- GRASS
+- Adobe suite
 
 
 ---
