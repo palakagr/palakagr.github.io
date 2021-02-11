@@ -10,7 +10,7 @@ California has more wildfires than any other U.S. state. In 2020, California saw
 <img src="images/SparkSafe-combine.jpg?raw=true"/>
 
 [Marketing Sales pitch](https://www.youtube.com/watch?v=gXrzPI28f2Q&feature=youtu.be)  
-[Markdown as pdf](/pdf/SparkSafe.pdf)               
+[Markdown (pdf)](/pdf/SparkSafe.pdf)               
 [Data repository](https://github.com/palakagr/SparkSafe)
 
 ---
@@ -18,8 +18,8 @@ California has more wildfires than any other U.S. state. In 2020, California saw
 Zillow publishes “Zestimate” valuations for homes across the U.S. using an algorithm that draws on data from county and tax assessor records, multiple listing services, brokerages, and homeowner submissions. This project sought to improve Zillow’s housing market predictions for Miami and Miami Beach. We conceptualized our model using the hedonic model, which predicts home prices by summing the value of its constituent parts. Our model includes three types of variables: internal characteristics of houses, amenities/public services, and spatial structures.
 
 <img src="images/Home2.JPG?raw=true"/>
-
-[Markdown as pdf](/pdf/Home values.pdf)                                         
+                        
+[Markdown (pdf)](/pdf/Home values.pdf)                                         
 [Data repository](https://github.com/palakagr/Predicting-Home-Values)
 
 ---
