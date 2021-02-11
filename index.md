@@ -10,11 +10,16 @@ California has more wildfires than any other U.S. state. In 2020, California saw
 [Link to the app pitch](https://www.youtube.com/watch?v=gXrzPI28f2Q&feature=youtu.be)                         
 [Link to the repository](https://github.com/palakagr/SparkSafe)
 
-
-
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### Space-Time Prediction of Bike Share Demand - San Francisco  
+The San Francisco Municipal Transportation Agency (SFMTA) is a department of the City and County of San Francisco responsible for the management of all ground transportation in the city. In 2013 they partnered with public agencies to plan and implement the original Bay Area Bike Share pilot project and are now leading San Francisco’s efforts to work with the private sector partner to expand the system to over ten times its pilot size. They partnered with Lyft to expand the regional system which has since been re-branded with all-new equipment as Bay Wheels. In 2017, as independent stationless bikeshare emerged as a big new trend, they were among the first U.S. cities to create a regulatory and permitting framework to address this fast-moving phenomenon and insure that bikeshare in all its forms is safe, orderly and equitable for all San Franciscans.
+
+One of the big operational challenges of bike share systems is "re-balancing" - getting bikes to stations that are anticipated to have demand but lack bikes. Figuring out how to do this is one of the keys to operating a successful system. With the introduction of the stationless bikeshare system the problem of re-balancing can be eliminated by a certain percentage. But it creates new problems as the bikes are further spread out and its harder to make sure that the bike is picked up. For the assignment, the data used is only from docked stations and does not include the stationless bikes.
+
+<img src="images/SparkSafe-combine.jpg?raw=true"/>
+
+[Link to the app pitch](https://www.youtube.com/watch?v=gXrzPI28f2Q&feature=youtu.be)                         
+[Link to the repository](https://github.com/palakagr/SparkSafe)
 
 ---
 [Project 3 Title](http://example.com/)
