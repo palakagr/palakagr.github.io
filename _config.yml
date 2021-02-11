@@ -4,9 +4,9 @@ description: > # your text below (remove <br> elements if you don't need line br
   Dual degree candidate @ University of Pennsylvania 
   <br>
   Master of Landscape Architecture and Master of Urban Spatial Analytics
-  <br><br>
-  Creative landscape and urban designer bitten by the data bug. Design and analytics for me is a complex matrix composed of tangible and intangible features. I believe that enactable policies should be developed and employed across the country, reflective of the myriad spatial, social, cultural, political, and morphological agents that constitute place. 
-  <br><br>
+  <br>
+  Creative landscape and urban designer bitten by the data bug.
+  <br>
   <a href="https://www.linkedin.com/in/palak-agarwal-025a68191/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
