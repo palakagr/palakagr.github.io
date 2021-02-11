@@ -45,6 +45,14 @@ One of the main aims of policing making is to make smart and efficient decisions
 [Data repository](https://github.com/palakagr/Risk-Modeling---Predicitve-Policing)
 
 ---
+### Urban Growth patterns around International Borders
+When it comes to territorial disputes across the globe, the list is long and ever-changing. There are now more than 150 disputes under way that involve territory, mostly in Africa, Asia, and the Pacific region, but also in Europe and America. Many internal and external policies have contributed to this increase. The factors can be categorized in the large concepts of economic development and social development. Some cities grew as a result of increased trade between the countries while others grew because of other territorial disputes. Here I use Earth Engine and ArcGIS Python to analyze development trends around 7 borders.
+
+<img src="images/1700.png?raw=true"/>
+           
+[Final Report](/pdf/Urban Growth Around Contested Borders.pdf)
+
+---
 ### Design Work
 Design and analytics for me is a complex matrix composed of tangible and intangible features. I believe that enactable policies should be developed and employed across the country, reflective of the myriad spatial, social, cultural, political, and morphological agents that constitute place. Understanding the relationship between the multiplicity of actors is the key to solving many of the urban problems we face today. To find solutions that work for today and tomorrow, it is important to grasp patterns that they create, and data can help us do that.
 
