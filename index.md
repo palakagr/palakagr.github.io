@@ -19,7 +19,7 @@ Zillow publishes “Zestimate” valuations for homes across the U.S. using an a
 
 <img src="images/Home2.JPG?raw=true"/>
 
-[Markdown (pdf)](/pdf/Home values.pdf)                                         
+[Markdown (pdf)](/pdf/Homevalues.pdf)                                         
 [Data repository](https://github.com/palakagr/Predicting-Home-Values)
 
 ---
@@ -28,7 +28,7 @@ In 2013 the San Francisco Municipal Transportation Agency partnered with public 
 
 <img src="images/Bikeshare5.jpg?raw=true"/>
 
-[Markdown as pdf](/pdf/Space-Time Prediction.pdf)                                         
+[Markdown as pdf](/pdf/Space-TimePrediction.pdf)                                         
 [Data repository](https://github.com/palakagr/Space-Time-Prediction-of-Bike-Share-Demand---San-Francisco-)
 
 ---
@@ -55,7 +55,7 @@ When it comes to territorial disputes across the globe, the list is long and eve
 
 <img src="images/1700.png?raw=true"/>
            
-[Final Report](/pdf/Urban Growth Around Contested Borders.pdf)
+[Final Report](/pdf/UrbanGrowthAroundContestedBorders.pdf)
 
 ---
 ## Design Work
