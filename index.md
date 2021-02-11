@@ -8,7 +8,7 @@ California has more wildfires than any other U.S. state. In 2020, California saw
 <img src="images/SparkSafe.JPG?raw=true"/>
 
 [Link to the app pitch](https://www.youtube.com/watch?v=gXrzPI28f2Q&feature=youtu.be)            
-[Link to the markdown](https://github.com/palakagr/SparkSafe/blob/main/FinalProject.html)                 
+[Link to the markdown](/html/FinalProject.html)                 
 [Link to the repository](https://github.com/palakagr/SparkSafe)
 
 
