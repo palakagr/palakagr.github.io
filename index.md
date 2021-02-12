@@ -10,7 +10,7 @@ California has more wildfires than any other U.S. state. In 2020, California saw
 <img src="images/SparkSafe-combine.jpg?raw=true"/>
 
 [Marketing Sales pitch](https://www.youtube.com/watch?v=gXrzPI28f2Q&feature=youtu.be)  
-[Markdown (pdf)](/pdf/SparkSafe.pdf)               
+[Markdown](https://htmlpreview.github.io/?https://github.com/palakagr/SparkSafe/blob/main/FinalProject.html)               
 [Data repository](https://github.com/palakagr/SparkSafe)
 
 ---
@@ -19,7 +19,7 @@ Zillow publishes “Zestimate” valuations for homes across the U.S. using an a
 
 <img src="images/Home2.JPG?raw=true"/>
 
-[Markdown (pdf)](/pdf/Homevalues.pdf)                                         
+[Markdown](https://htmlpreview.github.io/?https://github.com/palakagr/Predicting-Home-Values/blob/main/MUSA508_Assignment2_Leah_Palak.html)                                 
 [Data repository](https://github.com/palakagr/Predicting-Home-Values)
 
 ---
@@ -28,7 +28,7 @@ In 2013 the San Francisco Municipal Transportation Agency partnered with public 
 
 <img src="images/Bikeshare5.jpg?raw=true"/>
 
-[Markdown (pdf)](/pdf/Space-TimePrediction.pdf)                                         
+[Markdown](https://htmlpreview.github.io/?https://github.com/palakagr/Space-Time-Prediction-of-Bike-Share-Demand---San-Francisco-/blob/main/Space-Time%20Prediction.html)         
 [Data repository](https://github.com/palakagr/Space-Time-Prediction-of-Bike-Share-Demand---San-Francisco-)
 
 ---
@@ -37,16 +37,16 @@ The Department of Housing and Community Development (HCD) in Emil City seeks to 
 
 <img src="images/HCD2.jpg?raw=true"/>
          
-[Markdown (pdf)](/pdf/HosuingSubsidy.pdf)                                                  
+[Markdown](https://htmlpreview.github.io/?https://github.com/palakagr/Improving-efficiency-of-HCD-tax-credit-program/blob/main/HosuingSubsidy_Palak_m.html)                       
 [Data repository](https://github.com/palakagr/Improving-efficiency-of-HCD-tax-credit-program)
 
 ---
-### Risk Modeling - Predicitve Policing 
+### Risk Modeling - Predictive Policing 
 One of the main aims of policing making is to make smart and efficient decisions in terms of resource and capital allocation which benefits large populations. It is always a comparison between initial investment to long trend usage and benefits. Policing has driven public-sector machine learning because law enforcement has significant planning and resource allocation questions. Here we look at the intersection of public sector planning and data science to ensure that the supply of a limited resource matches the demand for those resources. There are many traditional methods that exist but none have been proven effective.
 
 <img src="images/Policing2.jpg?raw=true"/>
 
-[Markdown (pdf)](/pdf/Policing.pdf)                                         
+[Markdown](https://htmlpreview.github.io/?https://github.com/palakagr/Risk-Modeling---Predicitve-Policing/blob/main/MUSA508_Assignment3_Palak.html)                               
 [Data repository](https://github.com/palakagr/Risk-Modeling---Predicitve-Policing)
 
 ---
@@ -78,7 +78,7 @@ Field Notes toward an Internationalist Green New Deal is a project of the [McHar
 
 
 ---
-## Data analyzing and visualisation platforms
+## Skills and technical expertise
 
 - R (tidyverse, sf, raster, tmap, caret, tidymodels, shiny, R Markdown)
 - Python (pandas, numpy, geopandas, matplotlib/seaborn, folium, scikit-learn, keras, pyspark, panel)
