@@ -76,6 +76,12 @@ Field Notes toward an Internationalist Green New Deal is a project of the [McHar
 
 <img src="images/image.png?raw=true"/>
 
+---
+### Remote Sensing and Tangible modeling
+
+In my research position at the Environmental Modeling Lab at the University of Pennsylvania I work intimately with satellite imagery to find spectral signatures for different kinds of systems. We utilize machine learning algorithms to train and test different images across different seasons and years. Also we work on pansharpening multi-spectral imagery and also collecting imagery from the field using drones. Apart from that, I have started to get familiar with with GRASS and Ubuntu (Linux). 
+
+<img src="images/June-1.JPG?raw=true"/>
 
 ---
 ## Skills and technical expertise
