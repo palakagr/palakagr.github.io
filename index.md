@@ -63,7 +63,7 @@ Design and analytics for me is a complex matrix composed of tangible and intangi
 
 <img src="images/Design2.jpg?raw=true"/>
 
-[Resume](/pdf/Resume2021.pdf)           
+[Resume](/pdf/Agarwal_Palak_Resume_MUSA.pdf)           
 [Design Portfolio](/pdf/Agarwal_Palak_Portfolio.pdf)
 
 
@@ -79,7 +79,7 @@ Field Notes toward an Internationalist Green New Deal is a project of the [McHar
 ---
 ### Remote Sensing and Tangible modeling
 
-In my research position at the Environmental Modeling Lab at the University of Pennsylvania I work intimately with satellite imagery to find spectral signatures for different kinds of systems. We utilize machine learning algorithms to train and test different images across different seasons and years. Also we work on pansharpening multi-spectral imagery and also collecting imagery from the field using drones. Apart from that, I have started to get familiar with with GRASS and Ubuntu (Linux). 
+In my research position at the Environmental Modeling Lab at the University of Pennsylvania I work intimately with satellite imagery to find spectral signatures for different kinds of systems. We utilize machine learning algorithms to train and test different images across different seasons and years. Also we work on pansharpening multi-spectral imagery and also collecting imagery from the field using drones. 
 
 <img src="images/June-1.JPG?raw=true"/>
 
@@ -87,9 +87,9 @@ In my research position at the Environmental Modeling Lab at the University of P
 ## Skills and technical expertise
 
 - R (tidyverse, sf, raster, tmap, caret, tidymodels, shiny, R Markdown)
-- Python (pandas, numpy, geopandas, matplotlib/seaborn, folium, scikit-learn, keras, pyspark, panel)
+- Python (pandas, numpy, geopandas, matplotlib/seaborn, folium, scikit-learn, keras, panel)
 - Git
-- OpenStreetMap (Overpass API, OSRM, OSM History DB)
+- OpenStreetMap (Overpass API)
 - C, C++
 - Javascript
 - ArcMap, ArcPro
