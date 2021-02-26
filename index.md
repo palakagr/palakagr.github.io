@@ -4,8 +4,8 @@
 ## Projects
 ---
 
-### Spark Safe - A wildfire vulnerability indicator 
-California has more wildfires than any other U.S. state. In 2020, California saw one of the worst wildfire seasons in recorded history, and climate change could lead to even more wildfire destruction in the future (Yan et al., 2020; Miller et al., 2020). To support Cal Fire and the state of California in their important work protecting California from fire, we developed a mobile application called SparkSafe. Using the SparkSafe app, homeowners in 13 Northern California counties can enter their address and immediately learn their wildfire risk score. 
+### [Spark Safe - A wildfire vulnerability indicator](https://htmlpreview.github.io/?https://github.com/palakagr/SparkSafe/blob/main/FinalProject.html)  
+California has more wildfires than any other U.S. state. In 2020, California saw one of the worst wildfire seasons in recorded history, and climate change could lead to even more wildfire destruction in the future (Yan et al., 2020; Miller et al., 2020). To support Cal Fire and the state of California in their important work protecting California from fire, we developed a mobile application called SparkSafe. Using the SparkSafe app, homeowners in 13 Northern California counties can enter their address and immediately learn their wildfire risk score. We used data from 2010-2017 to predict fires for 2018-2019 and then checked for its accuracy. 
 
 <img src="images/SparkSafe-combine.jpg?raw=true"/>
 
