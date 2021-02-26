@@ -92,7 +92,8 @@ Field Notes toward an Internationalist Green New Deal is a project of the [McHar
 
 In my research position at the Environmental Modeling Lab at the University of Pennsylvania I work intimately with satellite imagery to find spectral signatures for different kinds of systems. We utilize machine learning algorithms to train and test different images across different seasons and years. Also we work on pansharpening multi-spectral imagery and also collecting imagery from the field using drones. 
 
-<img src="images/June-1.JPG?raw=true"/>
+<img src="images/remote.jpg?raw=true"/>
+<p style="font-size:6px">Photo credit : Jayson Latady</p>
 
 ---
 ## Skills and technical expertise
