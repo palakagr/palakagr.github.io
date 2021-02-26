@@ -13,12 +13,21 @@ California has more wildfires than any other U.S. state. In 2020, California saw
 [Data repository](https://github.com/palakagr/SparkSafe)
 
 ---
-### [Predicting Home Values](https://htmlpreview.github.io/?https://github.com/palakagr/Predicting-Home-Values/blob/main/MUSA508_Assignment2_Leah_Palak.html)   
+### [Predicting Home Values for Boston using R](https://htmlpreview.github.io/?https://github.com/palakagr/Predicting-Home-Values/blob/main/MUSA508_Assignment2_Leah_Palak.html)   
 Zillow publishes “Zestimate” valuations for homes across the U.S. using an algorithm that draws on data from county and tax assessor records, multiple listing services, brokerages, and homeowner submissions. This project sought to improve Zillow’s housing market predictions for Miami and Miami Beach. We conceptualized our model using the hedonic model, which predicts home prices by summing the value of its constituent parts. Our model includes three types of variables: internal characteristics of houses, amenities/public services, and spatial structures.
 
 <img src="images/Home2.JPG?raw=true"/>
                           
 [Data repository](https://github.com/palakagr/Predicting-Home-Values)
+
+---
+### Predicting Home Values for Philadelphia using Python  
+Zillow publishes “Zestimate” valuations for homes across the U.S. using an algorithm that draws on data from county and tax assessor records, multiple listing services, brokerages, and homeowner submissions. This project sought to improve Zillow’s housing market predictions for Miami and Miami Beach. We conceptualized our model using the hedonic model, which predicts home prices by summing the value of its constituent parts. Our model includes three types of variables: internal characteristics of houses, amenities/public services, and spatial structures.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/palakagr/PredictiveModeling-HousePrices/HEAD?filepath=PredictiveModeling-Housing-Prices.ipynb)
+
+<img src="images/prediction2.jpg?raw=true"/>
+                         
 
 ---
 ### [Space-Time Prediction of Bike Share Demand - San Francisco](https://htmlpreview.github.io/?https://github.com/palakagr/Space-Time-Prediction-of-Bike-Share-Demand---San-Francisco-/blob/main/Space-Time%20Prediction.html)    
