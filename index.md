@@ -28,7 +28,6 @@ Zillow publishes “Zestimate” valuations for homes across the U.S. using an a
 
 <img src="images/predictions2.jpg?raw=true"/>
                          
-
 ---
 ### [Space-Time Prediction of Bike Share Demand - San Francisco](https://htmlpreview.github.io/?https://github.com/palakagr/Space-Time-Prediction-of-Bike-Share-Demand---San-Francisco-/blob/main/Space-Time%20Prediction.html)    
 In 2013 the San Francisco Municipal Transportation Agency partnered with public agencies to plan and implement the original Bay Area Bike Share pilot project and are now leading to work with the private sector partner to expand the system. One of the big operational challenges of bike share systems is "re-balancing" - getting bikes to stations that are anticipated to have demand but lack bikes. Figuring out how to do this is one of the keys to operating a successful system. With the introduction of the stationless bikeshare system the problem of re-balancing can be eliminated by a certain percentage. But it creates new problems as the bikes are further spread out and its harder to make sure that the bike is picked up. 
@@ -60,6 +59,14 @@ When it comes to territorial disputes across the globe, the list is long and eve
 <img src="images/1700.png?raw=true"/>
            
 [Final Report](/pdf/UrbanGrowthAroundContestedBorders.pdf)
+
+---
+### Urban Street networks
+When it comes to territorial disputes across the globe, the list is long and ever-changing. There are now more than 150 disputes under way that involve territory, mostly in Africa, Asia, and the Pacific region, but also in Europe and America. Many internal and external policies have contributed to this increase. The factors can be categorized in the large concepts of economic development and social development. Some cities grew as a result of increased trade between the countries while others grew because of other territorial disputes. Here I use Earth Engine and ArcGIS Python to analyze development trends around 7 borders.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/palakagr/Urban_Street_network/HEAD?filepath=Urban_street_networks.ipynb)
+
+<img src="images/urban_street.jpg?raw=true"/>
 
 ---
 ## Design Projects
