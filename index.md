@@ -26,7 +26,7 @@ Zillow publishes “Zestimate” valuations for homes across the U.S. using an a
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/palakagr/PredictiveModeling-HousePrices/HEAD?filepath=PredictiveModeling-Housing-Prices.ipynb)
 
-<img src="images/prediction2.jpg?raw=true"/>
+<img src="images/predictions2.jpg?raw=true"/>
                          
 
 ---
