@@ -62,7 +62,7 @@ When it comes to territorial disputes across the globe, the list is long and eve
 
 ---
 ### Urban Street networks
-When it comes to territorial disputes across the globe, the list is long and ever-changing. There are now more than 150 disputes under way that involve territory, mostly in Africa, Asia, and the Pacific region, but also in Europe and America. Many internal and external policies have contributed to this increase. The factors can be categorized in the large concepts of economic development and social development. Some cities grew as a result of increased trade between the countries while others grew because of other territorial disputes. Here I use Earth Engine and ArcGIS Python to analyze development trends around 7 borders.
+In this project, I used osmnx to analyze the crash incidence in Center City, Philadelphia. Crash data was found on PenDOT website that saves and calculates number of crashes each day. From the road networks, it was easy to identify different intersections which then were used to geolocate the crashes reported.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/palakagr/Urban_Street_network/HEAD?filepath=Urban_street_networks.ipynb)
 
