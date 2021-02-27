@@ -69,6 +69,15 @@ In this project, I used osmnx to analyze the crash incidence in Center City, Phi
 <img src="images/urban_street.jpg?raw=true"/>
 
 ---
+---
+### Yelp review analysis
+In this project, I explored restaurant review data available through the Yelp Dataset Challenge for Cleveland. The dataset includes Yelp data for user reviews and business information for 10 metropolitan areas. I ran sentiment analysis on the reviews to check the polarity and subjectivity. Because Yelp reviews include the number of stars given by the user, the Yelp data set provides a unique opportunity to test how well our sentiment analysis works by comparing the number of stars to the polarity of reviews. Then analyzed the frequencies of different sets of words in Yelp reviews can offer insight into urban culture. Specifically, test the correlation between household income (using census data) and different types of restaurants, extracted from review data.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/palakagr/Yelp_Reviews/HEAD?filepath=Yelp_Reviews.ipynb)
+
+<img src="images/yelp.jpg?raw=true"/>
+
+---
 ## Design Projects
 Design and analytics for me is a complex matrix composed of tangible and intangible features. I believe that enactable policies should be developed and employed across the country, reflective of the myriad spatial, social, cultural, political, and morphological agents that constitute place. Understanding the relationship between the multiplicity of actors is the key to solving many of the urban problems we face today. To find solutions that work for today and tomorrow, it is important to grasp patterns that they create, and data can help us do that.
 
