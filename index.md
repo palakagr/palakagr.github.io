@@ -19,9 +19,7 @@ With climate change and the current climate scenario, understanding flooding and
 <img src="images/NOAA.jpg?raw=true"/>
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/palakagr/NOAA-Tide-Study/HEAD?urlpath=%2Fpanel%2FSeaLevelRise-app)
-
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/palakagr/NOAA-Tide-Study/HEAD?urlpath=%2Fpanel%2FSeaLevelRise-app2)
-
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/palakagr/NOAA-Tide-Study/HEAD?urlpath=%2Fpanel%2FSeaLevelRise-app3)
 
 ---
