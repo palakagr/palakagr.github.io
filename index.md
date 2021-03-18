@@ -118,15 +118,15 @@ In my research position at the Environmental Modeling Lab at the University of P
 ---
 ## Skills and technical expertise
 
-- Geospatial Analytics: ESRI GIS Software Suite (raster and vector) || ArcPy || Google Earth Engine || Environmental Modeling || QGIS
-- Programming Languages: R || Python || JavaScript || HTML || C++ || Git || OpenStreetMaps 
-- Statistical Analysis: Regression modelling ||Machine learning || Predictive Modeling in R || Spatial Statistics
-- Data Visualization: HTML/CSS || Mapbox || Carto || ArcGIS API || Adobe Suite || Seaborn, Matplotlib, Altair (Python) 
-- Web Development: Carto || JavaScript || Python for Web Development (panel, folium, flask)
-- Satellite Imagery/ Remote Sensing: ArcGIS Spatial Analytics Toolbox || Python image processing 
-- Landscape Design: Land Use and Environmental Planning || Land Preservation || Urban Finance || Hydrology || Designing skills 
-- Environmental Science: Environmental restoration || Climate-change concepts || Ecological topics
-- 3D Modeling softwares: Rhino || Sketchup || Lumion
+- **Geospatial Analytics:** ESRI GIS Software Suite (raster and vector) || ArcPy || Google Earth Engine || Environmental Modeling || QGIS
+- **Programming Languages:** R || Python || JavaScript || HTML || C++ || Git || OpenStreetMaps 
+- **Statistical Analysis:** Regression modelling ||Machine learning || Predictive Modeling in R || Spatial Statistics
+- **Data Visualization:** HTML/CSS || Mapbox || Carto || ArcGIS API || Adobe Suite || Seaborn, Matplotlib, Altair (Python) 
+- **Web Development:** Carto || JavaScript || Python for Web Development (panel, folium, flask)
+- **Satellite Imagery/ Remote Sensing:** ArcGIS Spatial Analytics Toolbox || Python image processing 
+- **Landscape Design:** Land Use and Environmental Planning || Land Preservation || Urban Finance || Hydrology || Designing skills 
+- **Environmental Science:** Environmental restoration || Climate-change concepts || Ecological topics
+- **3D Modeling softwares:** Rhino || Sketchup || Lumion
 ---
 <p style="font-size:6px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
