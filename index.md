@@ -127,6 +127,7 @@ In my research position at the Environmental Modeling Lab at the University of P
 - **Landscape Design:** Land Use and Environmental Planning, Land Preservation, Urban Finance, Hydrology, Designing skills 
 - **Environmental Science:** Environmental restoration, Climate-change concepts, Ecological topics
 - **3D Modeling softwares:** Rhino, Sketchup, Lumion
+
 ---
 <p style="font-size:6px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
