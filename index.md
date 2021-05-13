@@ -4,6 +4,15 @@
 ## Projects
 ---
 
+### [Canopy View - Saving tomorrows tree canopy today](https://htmlpreview.github.io/?https://github.com/palakagr/tree-canopy-loss/blob/main/Tree_Canopy_Loss.html)  
+Tree canopy is defined as an area of land which, viewed from a bird’s eye view, is covered by trees. Trees offer essential benefits to cities, including mitigating the urban heat island effect, absorbing stormwater runoff, a habitat for wildlife, aesthetics, and recreation. A 2020 study published in The Lancet found that if Philadelphia reaches 30% tree canopy in all of its neighborhoods, the city would see 403 fewer premature deaths per year. Most of the tree canopy loss occurred in historically disenfranchised communities. In response, the City of Philadelphia has set essential milestones for conserving and increasing the current tree canopy in the city. In this analysis, we model tree canopy loss in Philadelphia and identify risk factors. We additionally assess the city’s progress on the goals and how this varies across neighborhoods.
+
+<img src="images/TreeCanopy.jpg?raw=true"/>
+
+[Web Application](https://palakagr.github.io/MUSAPracticum/)                 
+[Data repository](https://github.com/palakagr/tree-canopy-loss)
+
+---
 ### [Spark Safe - A wildfire vulnerability indicator](https://htmlpreview.github.io/?https://github.com/palakagr/SparkSafe/blob/main/FinalProject.html)  
 California has more wildfires than any other U.S. state. In 2020, California saw one of the worst wildfire seasons in recorded history, and climate change could lead to even more wildfire destruction in the future (Yan et al., 2020; Miller et al., 2020). To support Cal Fire and the state of California in their important work protecting California from fire, we developed a mobile application called SparkSafe. Using the SparkSafe app, homeowners in 13 Northern California counties can enter their address and immediately learn their wildfire risk score. We used data from 2010-2017 to predict fires for 2018-2019 and then checked for its accuracy. 
 
