@@ -27,7 +27,7 @@ Given the rate at which urbanization is occurring around the world, it is vital 
 
 <img src="images/RemoteSensing.jpg?raw=true"/>
 
-[Colab script 1](https://drive.google.com/file/d/1zL6M9BxGVBS1Mut0REusrz4e7Fe7EbLy/view?usp=sharing)                 
+[Colab script 1](https://colab.research.google.com/drive/1zL6M9BxGVBS1Mut0REusrz4e7Fe7EbLy)                 
 [Colab script 2](https://colab.research.google.com/drive/1z939ZfD_NyeAGO7dFDdtMIfN7Rb7y7SS)
 
 ---
