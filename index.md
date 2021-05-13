@@ -22,6 +22,15 @@ California has more wildfires than any other U.S. state. In 2020, California saw
 [Data repository](https://github.com/palakagr/SparkSafe)
 
 ---
+### [Detecting Human Settlements Lacking Electricity with Remote Sensing](/pdf/MUSA_650_Final_Project_Report.pdf)
+Given the rate at which urbanization is occurring around the world, it is vital that new human developments have access to basic amenities such as sanitation, water, and electricity. Although these amenities are easily provided in developed countries, developing countries face enormous challenges to offering these basic resources to their citizens. In this project, we will be using satellite imagery to detect human settlements that have no electricity in order to identify where resources are needed most.
+
+<img src="images/RemoteSensing.jpg?raw=true"/>
+
+[Colab script 1](https://drive.google.com/file/d/1zL6M9BxGVBS1Mut0REusrz4e7Fe7EbLy/view?usp=sharing)                 
+[Colab script 2](https://colab.research.google.com/drive/1z939ZfD_NyeAGO7dFDdtMIfN7Rb7y7SS)
+
+---
 ### NOAA Tide Study
 With climate change and the current climate scenario, understanding flooding and sea level rise patterns is of utmost important. So, I created a dashboard which visualizes and analyzes sea level rise for 16 cities across the country using historical data to predict future trends. Through understanding the technical aspects of NOAA data I learned how to visually express synthesized data into formats which are easily digestible to a variety of audiences. The disparate formats of NOAA data make understanding potential impacts of sea-level-rise and strengthening storm surges difficult for those not familiar with this type of data. I believe that Increasing the legibility of complex datasets like these help by providing a larger outreach and which in turn can help local citizens get involved in supporting policies that address it.
 
