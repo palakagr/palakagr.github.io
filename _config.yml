@@ -13,7 +13,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   bitten by the data bug.
   <br><br>
   <a href="https://www.linkedin.com/in/palak-agarwal-025a68191/">View My LinkedIn Profile</a> 
-  [Design Portfolio](/pdf/Resume2021_PalakAgarwal.pdf)
+  <br>
+  <a href="https://github.com/palakagr/palakagr.github.io/blob/master/pdf/Agarwal_Palak_Resume_MUSA.pdf">Resume</a>
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
