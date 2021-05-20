@@ -112,8 +112,8 @@ Design and analytics for me is a complex matrix composed of tangible and intangi
 
 <img src="images/Design2.jpg?raw=true"/>
 
-[Resume](/pdf/Agarwal_Palak_Resume_MUSA.pdf)           
-[Design Portfolio](/pdf/Resume2021_PalakAgarwal.pdf)
+[Resume](/pdf/Resume2021_PalakAgarwal.pdf.pdf)           
+[Design Portfolio](/pdf/Agarwal_Palak_Portfolio.pdf)
 
 
 ---
